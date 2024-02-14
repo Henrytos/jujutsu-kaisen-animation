@@ -38,7 +38,7 @@ export const useCarousel = () => {
         primaryColor: "#BF7E8A",
         secundaryColor: "#0D0D0D",
         videoUrl:
-          "https://utfs.io/f/2fd72636-7dda-41d6-bb44-4315075be3d0-befkad.mp4",
+          "https://utfs.io/f/cf8bd2dc-dbba-4298-98b7-1768fa4cf894-vqnbhu.mp4",
       },
       {
         id: 2,
@@ -50,7 +50,7 @@ export const useCarousel = () => {
         primaryColor: "#D96F66",
         secundaryColor: "#0D0D0D",
         videoUrl:
-          "https://utfs.io/f/f3da367f-eb4c-4fd6-b9a9-13bdc70c3597-nvf3vp.mp4",
+          "https://utfs.io/f/d5842f7d-1444-43aa-8839-74ab0b192538-ouhu1c.mp4",
       },
       {
         id: 3,
@@ -62,7 +62,7 @@ export const useCarousel = () => {
         primaryColor: "#1B1E59",
         secundaryColor: "#E3DCF2",
         videoUrl:
-          "https://utfs.io/f/4d98ad06-1003-4fea-953b-4bc28099f876-f4038b.mp4",
+          "https://utfs.io/f/9cb36c4f-f768-461c-821f-a36c55846338-p5lf55.mp4",
       },
       {
         id: 4,
@@ -86,7 +86,7 @@ export const useCarousel = () => {
         primaryColor: "#081E36",
         secundaryColor: "#F2E2DF",
         videoUrl:
-          "https://utfs.io/f/9203ed8b-f2b6-4cf6-8e98-fb91a1c0b8c1-o5zz6p.mp4",
+          "https://utfs.io/f/29189c4b-d6eb-4a44-8d7e-832a82b019b3-v0kjoq.mp4",
       },
     ],
     type: "",
