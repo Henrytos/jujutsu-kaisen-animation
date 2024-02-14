@@ -31,7 +31,7 @@ export const useCarousel = () => {
       {
         id: 1,
         typeAnimation: "rigth-to-left",
-        background: "/public/images/geto.png",
+        background: "/images/geto.png",
         title: "Suguru Geto",
         description:
           "Impedir meus planos ninguém vai! Esse é o Cortejo do Youkais! Não me culpem em segundos eu trarei seu fim! Em um loop, de exorcizar e consumir!",
@@ -43,7 +43,7 @@ export const useCarousel = () => {
       {
         id: 2,
         typeAnimation: "left-to-bottom",
-        background: "/public/images/sukuna.png",
+        background: "/images/sukuna.png",
         title: "Ryomen Sukuna",
         description:
           "Nós lutaremos até a morte. Se você vencer, eu irei salvá-lo sem minhas condições e se eu vencer, você ganhará vida sob minhas ordens.",
@@ -55,7 +55,7 @@ export const useCarousel = () => {
       {
         id: 3,
         typeAnimation: "bottom-to-rigth",
-        background: "/public/images/gojo.png",
+        background: "/images/gojo.png",
         title: "Satoro Gojo",
         description:
           "Afinal, eu sou o mais forte que existe. Morrer para vencer e arriscar a morte para vencer são coisas completamente diferentes. Tudo o que estou sentindo agora é a alegria deste mundo.",
@@ -67,7 +67,7 @@ export const useCarousel = () => {
       {
         id: 4,
         typeAnimation: "bottom-to-rigth",
-        background: "/public/images/yuta.png",
+        background: "/images/yuta.png",
         title: "Yuta Okkotsu",
         description:
           "Para quebrar maldições, primeiro você precisa entendê-las A maldição colocada em você também pode salvar pessoas, dependendo de como for usada.",
@@ -79,7 +79,7 @@ export const useCarousel = () => {
       {
         id: 5,
         typeAnimation: "bottom-right-to-top",
-        background: "/public/images/toji.png",
+        background: "/images/toji.png",
         title: "Toji Fushigoro",
         description:
           "pensei que eu... finalmente tinha engolido esse orgulho de merda...mas acho que eu tava errado - falava o assassino de feiticeiros Toji Fushiguro, onde se encontrava quase morrendo pelo seu ferimento gigantesco vindo de seu lado esquerdo.",
